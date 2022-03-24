@@ -1,4 +1,10 @@
-### Hi there 👋
+# Eu sou Simone Lopes! 👩🏻‍💻
+Sou uma estudante de Desenvolvimento de Sistemas. Permaneço explorando minha paixão pela tecnologia em e busca de oportunidades para expansão de conhecimento.
+
+# Meus Conhecimentos
+[![SimoneLS GitHub stats](https://github-readme-stats.vercel.app/api?username=SimoneLS)](https://github.com/SimoneLS/github-readme-stats)
+    
+
 
 <!--
 **SimoneLS/SimoneLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
