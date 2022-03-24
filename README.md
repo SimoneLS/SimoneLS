@@ -1,5 +1,6 @@
+# Olá!
 # Eu sou Simone Lopes! 👩🏻‍💻
-Sou uma estudante de Desenvolvimento de Sistemas. Permaneço explorando minha paixão pela tecnologia em e busca de oportunidades para expansão de conhecimento.
+Sou uma estudante de Desenvolvimento de Sistemas, onde permaneço explorando minha paixão pela tecnologia. Em busca de oportunidades para expansão de conhecimento.
 
 # Meus Conhecimentos
 [![SimoneLS GitHub stats](https://github-readme-stats.vercel.app/api?username=SimoneLS)](https://github.com/SimoneLS/github-readme-stats)
