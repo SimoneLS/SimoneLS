@@ -4,7 +4,7 @@ Permaneço explorando minha paixão pela tecnologia e minha busca por oportunida
 
 - :computer: Iniciei minha jornada na programação em 2020.
 
-- :books: Técnica em Desenvolvimento de Sistemas e cursos extra-curriculares.
+- :books: Me formando em Técnica de Desenvolvimento de Sistemas e cursos extra-curriculares.
 
 ## Estou estudando...
 ![Github Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,7 +18,7 @@ Permaneço explorando minha paixão pela tecnologia e minha busca por oportunida
 ![Github Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Meus projetos...
-![SimoneLS GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YanMCoutinho&langs_count=10&layout=compact&theme=tokyonight)
+![SimoneLS GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneLS&langs_count=10&layout=compact&theme=tokyonight)
 
 ## Minha jornada no GitHub...
 ![SimoneLS GitHub stats](https://github-readme-stats.vercel.app/api?username=SimoneLS&show_icons=true&theme=tokyonight)
