@@ -18,7 +18,7 @@ Permaneço explorando minha paixão pela tecnologia e minha busca por oportunida
 ![Github Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Meus projetos...
-![SimoneLS GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneLS&langs_count=10&layout=compact&theme=tokyonight)
+![SimoneLS GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YanMCoutinho&langs_count=10&layout=compact&theme=tokyonight)
 
 ## Minha jornada no GitHub...
 ![SimoneLS GitHub stats](https://github-readme-stats.vercel.app/api?username=SimoneLS&show_icons=true&theme=tokyonight)
