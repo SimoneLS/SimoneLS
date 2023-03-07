@@ -4,7 +4,9 @@ Permaneço explorando minha paixão pela tecnologia e minha busca por oportunida
 
 - :computer: Iniciei minha jornada na programação em 2020.
 
-- :books: Me formando em Técnica de Desenvolvimento de Sistemas e cursos extra-curriculares.
+- :woman_technologist: Técnica em Desenvolvimento de Sistemas e cursos extra-curriculares.
+
+- :books: Estudando Sistemas de Informação. 
 
 ## Estou estudando...
 ![Github Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
